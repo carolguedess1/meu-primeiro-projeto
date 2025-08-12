@@ -1,6 +1,6 @@
 let peso= 45.00;
 let altura= 1.65;
-const soma= peso/(altura*altura);
+const imc= peso/(altura*altura);
 
-console.log(soma);
+console.log(imc);
 
